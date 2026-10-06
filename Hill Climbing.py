@@ -1,3 +1,8 @@
+'''
+By Prithvi Koka and Krishna Patel
+ITCS 6150-091
+'''
+
 from random import randint, choice
 import sys 
 
